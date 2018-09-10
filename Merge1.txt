@@ -5,4 +5,6 @@ Oh no
 What is happening
 Help meee
 Only local master should have this
+in staging directory
+in working directory
 
